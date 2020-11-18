@@ -1,5 +1,4 @@
-// package o2;
-//問２
+
 abstract class Car {
     protected int num;
     protected double gas;
